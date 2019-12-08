@@ -22,4 +22,4 @@ const CardSection = (props) => {
     )
 }
 
-export default CardSection
+export { CardSection }
